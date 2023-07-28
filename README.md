@@ -1,4 +1,4 @@
-<h1 align="center"> Hi I'm <strong> Ibrahim Ibrahim</strong> 👨🏾‍💻💻🥷🏽<img height="40px" src="https://slackmojis.com/emojis/34984-mando/download"/>👨🏾‍💻💻🥷🏽</h1>
+<h1 align="center"> Hi I'm <strong> Ibrahim Ibrahim</strong> 👨🏾‍💻<img height="40px" src="https://slackmojis.com/emojis/34984-mando/download"/>🥷🏽</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -6,7 +6,7 @@
 
 <img align="left" width= "45%" src="https://github-readme-stats.vercel.app/api?username=Isquare007&theme=gruvbox"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isquare007&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isquare007&layout=compact)
 <br>
 
 ### LANGUAGES AND TOOLS:
